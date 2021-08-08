@@ -1,0 +1,13 @@
+com\eurowings\flight\model\Flight.class
+com\eurowings\flight\model\FlightEvent.class
+com\eurowings\flight\model\FlightStatusEvent.class
+com\eurowings\flight\service\MockService.class
+com\eurowings\flight\vo\FlightStatus.class
+com\eurowings\flight\config\ReactiveConfig.class
+com\eurowings\flight\FlightServiceApplication.class
+com\eurowings\flight\config\CustomConnectionFactoryInitializer.class
+com\eurowings\flight\initializer\FlightInitializer.class
+com\eurowings\flight\service\FlightService.class
+com\eurowings\flight\model\FlightInfo.class
+com\eurowings\flight\handler\RouteHandlers.class
+com\eurowings\flight\repository\FlightRepository.class

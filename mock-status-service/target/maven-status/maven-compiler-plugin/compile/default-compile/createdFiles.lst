@@ -1,0 +1,4 @@
+com\eurowings\mock\resource\MockResource.class
+com\eurowings\mock\resource\RouteHandlers.class
+com\eurowings\mock\MockApplication.class
+com\eurowings\mock\resource\FlightStatus.class
